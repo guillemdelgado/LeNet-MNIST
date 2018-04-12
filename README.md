@@ -1,4 +1,4 @@
-# LeNet-MNIST
+# LeNet MNIST
 This repositary contains a simple example to get in touch with Tensorflow and a toy example which trains with different models a classificator with MNIST dataset.
 
 ## Simple Network
